@@ -98,3 +98,11 @@
   align-items: center;
   justify-content: center;
 }
+.ant-modal-close-x{
+  margin-top: -10px !important;
+}
+
+/* Tailwind CSS directives
+@tailwind base;
+@tailwind components;
+@tailwind utilities; */
